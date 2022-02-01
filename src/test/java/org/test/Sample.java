@@ -6,5 +6,7 @@ public static void main(String[] args) {
 	System.out.println("Roja");
 	System.out.println("Aras");
 	System.out.println("Kalpana");
+	System.out.println("Ragu");
+	System.out.println("Kala");
 }
 }
